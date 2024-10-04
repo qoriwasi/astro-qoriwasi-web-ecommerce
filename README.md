@@ -1,0 +1,1 @@
+# astro-qoriwasi-web-ecommerce
